@@ -13,6 +13,5 @@ This tool is for educational purpose only.I will not be held responsible for any
 
 ## Feedback
 Any suggestion and feedback is welcome. You can message me
-- [Contact on Instagram] @fxrhanansari
 - [Contact me on Gmail] fxrhanansari@gmail.com
 
